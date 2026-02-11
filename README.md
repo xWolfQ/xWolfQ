@@ -16,16 +16,11 @@ Docker • Docker Compose • Linux • Git
 React • JavaScript  
 
 ---
-
 ## Projects
 
 ### Library System
 Spring Boot + PostgreSQL + React + Docker  
 Layered architecture, REST API, database integration  
-
-### DeadPlate
-Backend-integrated OCR system for license plate recognition  
-
 ---
 
 ## Contact
