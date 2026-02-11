@@ -1,63 +1,32 @@
-# Hi, I'm Dawid 👋
+# Dawid Kotyl
 
-🎯 Aspiring Java Backend Developer  
-📍 Poland  
-
-I focus on building backend systems using Java and Spring Boot.  
-My goal is to design clean, scalable and production-ready applications.
+Java Backend Developer focused on building REST APIs with Spring Boot.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Backend**
-- Java
-- Spring Boot
-- Hibernate / JPA
-- REST API
-- PostgreSQL
-- Docker
+**Backend:**  
+Java • Spring Boot • Hibernate / JPA • REST • PostgreSQL  
 
-**Frontend**
-- React
-- JavaScript
+**Infrastructure:**  
+Docker • Docker Compose • Linux • Git  
 
-**Other**
-- Git
-- Linux
-- Docker Compose
+**Frontend:**  
+React • JavaScript  
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 📚 Library System
+### Library System
+Spring Boot + PostgreSQL + React + Docker  
+Layered architecture, REST API, database integration  
 
-Full-stack web application built with:
-
-- Spring Boot (REST API)
-- PostgreSQL
-- Hibernate / JPA
-- React (frontend)
-- Docker (containerized setup)
-
-Key features:
-- CRUD operations
-- Database integration
-- Layered architecture
-- Dockerized environment
-
-👉 [View Repository](https://github.com/xWolfQ/Library-System)
-
-
-## 🎓 Education
-
-Computer Science student  
-University of Silesia
+### DeadPlate
+Backend-integrated OCR system for license plate recognition  
 
 ---
 
-## 📫 Contact
-
-- Email: drwolfq@gmail.com
-- GitHub: github.com/xWolfQ
+## Contact
+📧 drwolfq@gmail.com
