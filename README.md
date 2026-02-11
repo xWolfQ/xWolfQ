@@ -19,6 +19,7 @@ React • JavaScript
 ## Projects
 
 ### Library System
+
 Spring Boot + PostgreSQL + React + Docker  
 Layered architecture, REST API, database integration  
 ---
